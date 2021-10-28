@@ -1,28 +1,28 @@
-#pihapto {
-    color: red;
-}
-
 body {
     text-align: center;
-    background-image: linear-gradient(lightskyblue, azure)
 }
 
-#imgob {
-    width: 200px;
+h1 {
+    font-size: 40px;
 }
 
-#imgobt {
-    width: 200px
+#erty {
+    font-family: sans-serif;
+    width: 834px;
+    height: 1527px;
+    background-image: linear-gradient(lightskyblue, azure);
 }
 
-.werty ul:hover {
-    background-color: white
+#ertyui {
+    font-family: sans-serif;
+    width: 834px;
+    height: 1527px;
+    background-image: linear-gradient(darkgreen, lime);
 }
 
-.lk {
-    position: absolute;
-    list-style: none;
-    padding: 7.5px;
-    margin-left: 7.5px;
-    margin-right: 7.5px;
+#ertyuio {
+    font-family: sans-serif;
+    width: 834px;
+    height: 1527px;
+    background-image: linear-gradient(slategrey, whitesmoke)
 }
