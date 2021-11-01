@@ -16,13 +16,18 @@ h1 {
 #ertyui {
     font-family: sans-serif;
     width: 834px;
-    height: 1527px;
+    height: 527px;
     background-image: linear-gradient(darkgreen, lime);
 }
 
 #ertyuio {
     font-family: sans-serif;
     width: 834px;
-    height: 1527px;
+    height: 527px;
     background-image: linear-gradient(slategrey, whitesmoke)
+}
+
+.wertyui {
+    height: 370px;
+    width: 340px;
 }
